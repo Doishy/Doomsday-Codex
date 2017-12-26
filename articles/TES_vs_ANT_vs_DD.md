@@ -1,7 +1,3 @@
-# The so-called 'Hardest Deck'
-
-## The real difficulties with DDFT
-
 We shall begin with a Pixar-esque bittersweet beginning. The deck
 is working, people are happy, we can run maindeck Abrupt Decay yet
 still deploy triple basics to fight the Miracles menace and then bam:
@@ -223,4 +219,12 @@ any line that uses Doomsday itself, BW into EtW, natural ToA kills and then anyt
 (such as weird SB plans or other alternatives like Telemin Performance). 
 
 
+
+## Closing Thoughts
+
+I'm sorry for this information splurge as it is a lot to take in. 
+
+
+
+## Links
 
