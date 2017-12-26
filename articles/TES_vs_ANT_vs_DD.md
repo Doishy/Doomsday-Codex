@@ -122,8 +122,7 @@ of. Lotus Petal as a four of and generally four lands that make B (normally 2 Se
 quickly however it is far from the only way. Two lands and a lotus petal is often enough
 or even one land and two petals can occur often. 
 ```
-"...a lot of my Doomsday
-wins were actually off of Burning Wish, Top and LED mana."
+"...a lot of my Doomsday wins were actually off of Burning Wish, Top and LED mana."
 ```
 We also have the option thanks to Conjurer's
 Bauble to play out Doomsday on turn 2 via Burning Wish and two LEDs thereby replicating
