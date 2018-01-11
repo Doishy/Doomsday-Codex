@@ -1,8 +1,88 @@
+Witty title for an article full of statistics:
+
+Decks not hot. 
+DDFT is international now fam.  
+Check the statesteks. (?)
+
+*Business business business. Numbers, numbers, numbers.*
+
 ## The data collection
+
+Back in January I posted an [article](URL) detailing a bit about DDFT as a deck 
+across the course of 2017 and how it is fairing now. I presented some
+statistics that had been gathered and gave a hint that another article
+was coming where I present them properly and in greater detail.  
+This is that article.
+
+Back in November some of us started trying to work out actually how the deck
+was performing. We had gone through a tricky year with the Sensei's Diving Top ban and as a
+result many people were changing many things in their lists with no real
+idea of how performance was going. To help work this out we started a public
+data collection sheet to facilitate working out a variety of stats. A lot
+of influence for what data was to be gathered stemmed from the equivalent data
+sheets and statistical work by Bryant Cook of TES fame. 
+
+There are some key differences in how we have collected certain things. It
+was assumed that DDFT of the three storm decks (ANT, DDFT, TES) was the slowest
+and therefore unlike ANT/TES, we wanted to record combo turns up to T5+ as opposed
+to T4+. The reasoning behind this is that T4 can often represent a combo turn on
+T3 where the pilot has identified a piece of permission they must play around or similar.
+Despite this difference in raw data for any direct comparisons to the ANT/TES data 
+we have converted the results so that it's all incorporated into the T1-T4+ format.
+
+```
+Quick glossary:
+ANT - Ad-Nauseum Tendrils, a Legacy Storm deck based around Past in Flames engine
+DDFT - Doomsday Fetchland Tendrils, a Legacy Storm deck based around the card Doomsday
+TES - The Epic Storm, a Legacy Storm deck based around Ad Nauseum and Burning Wish
+Tendrils/ToA - Shorthand for Tendril's of Agony
+Empty/EtW - Shorthand for Empty the Warrens
+```
+
+Winning game engines was another difference. We could have just tracked Doomsday
+vs Empty the Warrens vs Natural Tendrils kills however this wouldn't have been enough detail.
+Doomsday itself is a weird deck, once you cast the card there are so many different ways 
+to draw into it, time it, win with it that you have a lot of different options.
+In total we have 35 different generic winning engines used spread across the use of Doomsday, 
+Burning Wish and the various win conditions that can be utilised. We also tracked whether
+a combo turn involved a [pass-the-turn pile](URL), a [double cantrip pile](URL), and various
+other techniques with cards like [Laboratory Maniac](URL) or [Conjurer's Bauble](URL).
+
+Going into this level of detail allowed us to identify trends in how often the deck uses
+what to win and how useful certain niche cards are to the deck.
+
+The full public data spreadsheet may be found [HERE](URL). Please feel free to 
+contribute.
 
 ## How the data is compiled
 
 ## Bias within the data
+
+There are some limitations with how our data is compiled and assessed. One major one is
+in regards to combo turn. Combo turn refers to the turn we "go off" but this may not be the same
+turn we win. Casting Doomsday on T1 to build a [Shelldock Isle/Emrakul Pile](URL) would still
+be recorded as a T1 combo turn despite not winning until T3/4. The same with early EtW plays. 
+Making 14 Goblins on T2 might not win you the game until T4 or even later but it would still
+be recorded as T2. The TES data has this same issue in regards to EtW lines but with Doomsday and
+pass-the-turn piles it's possibly a bit more prevalent here.
+
+Another major difference in the data collection compared to the TES data is that the TES data 
+only draws from a single individual and only records MTGO Leagues or Comp REL paper events. We
+decided to be a bit more open with our data collection compiling it from a large number of 
+individuals at various sill levels and experience levels with the deck. This also includes practice
+games, testing, local Paper events, Xmage and Cockatrice games. Despite some of the stigma associated
+with some of these mediums they are all valid matches played in a competative fasion so should be counted.
+It also allows us to generate the most amount of data points to try and avoid individual or medium biases
+so that the deck's performance is the focus irrespective of skill level or experience.
+
+The final main limitation is what decklists people are running. DDFT has a core series of pieces however
+unlike a lot of decks, there are a lot of 'flexible slots' available in terms of numbers of Burning Wishes,
+Lotus Petals, Lands, having BR duals vs all UR duals, whether you run Rain of Filth, Conjurer's Bauble,
+Preordain, how many discard spells you run and at what ratios of each. Because of this variance
+it's hard to determine what list is performing best. We could try at give each ratio of things a unique
+code slot and string them together just as we could try and get people to list all cards in their piles
+however people don't want to have to keep that level of detail in their notes so in the interests of
+pragmatism this data is ommitted.
 
 ## Where this comes from
 
