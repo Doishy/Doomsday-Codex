@@ -1,6 +1,6 @@
 Witty title for an article full of statistics:
 
-Decks not hot. 
+Decks not hot.  
 DDFT is international now fam.  
 Check the statesteks. (?)
 
@@ -84,7 +84,12 @@ code slot and string them together just as we could try and get people to list a
 however people don't want to have to keep that level of detail in their notes so in the interests of
 pragmatism this data is ommitted.
 
-## Where this comes from
+
+## Business business business. Numbers, numbers, numbers.
+
+Right then, let's start looking at some data shall we?
+
+First of all the number of total 'good' match data points is (NUMBER).
 
 ## The comparisons
 
