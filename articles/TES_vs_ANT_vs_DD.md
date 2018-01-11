@@ -6,7 +6,7 @@ Check the statesteks. (?)
 
 *Business business business. Numbers, numbers, numbers.*
 
-## The data collection
+## The Data Collection
 
 Back in January I posted an [article](URL) detailing a bit about DDFT as a deck 
 across the course of 2017 and how it is fairing now. I presented some
