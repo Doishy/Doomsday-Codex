@@ -2,9 +2,7 @@ Witty title for an article full of statistics:
 
 Decks not hot.  
 DDFT is international now fam.  
-Check the statesteks. (?)
-
-*Business business business. Numbers, numbers, numbers.*
+Check the statistekks. (?)
 
 ## The Data Collection
 
@@ -52,7 +50,8 @@ Going into this level of detail allowed us to identify trends in how often the d
 what to win and how useful certain niche cards are to the deck.
 
 The full public data spreadsheet may be found [HERE](URL). Please feel free to 
-contribute.
+contribute any and all matches played, just make sure to include all information requested
+in the sheet.
 
 ## How the data is compiled
 
@@ -82,14 +81,63 @@ Preordain, how many discard spells you run and at what ratios of each. Because o
 it's hard to determine what list is performing best. We could try at give each ratio of things a unique
 code slot and string them together just as we could try and get people to list all cards in their piles
 however people don't want to have to keep that level of detail in their notes so in the interests of
-pragmatism this data is ommitted.
+pragmatism this level of data is ommitted.
 
 
 ## Business business business. Numbers, numbers, numbers.
 
 Right then, let's start looking at some data shall we?
 
-First of all the number of total 'good' match data points is (NUMBER).
+First of all the number of total 'good' match data points is (NUMBER). A 'good' match is defined as one where
+we have all the pertinent information recorded. For any data crunching involving sucess or win% we shall
+also define a 'good' match as "not the mirror". The reason being here is that we might only have data from
+one side of the match therefore only recording the result from one side and not the other. As a result it's
+easier to just omit them than allow the minor skew from it to be used. So for any results based statistics
+we had (NUMBER) data points instead (Yes, that means NUMBER mirror matches played, funtimes!).
+
+### #Winning
+
+First of all the one that everyone wants to know: The Match and Game win rates.
+
+Match Win rate (%):  
+Game Win rate (%):  
+
+Well it's positive(>50%)! That's always a good start.  
+What does this actually mean though?  
+
+Well it means that we have a better than half chance of winning any given match against a 'normal' metagame
+at least at face value. As you can see we have some interesting points in regards to the fact our game win %
+is lower than our match win % and this will become more apparent as we go on. Long story short is that
+we are favoured to win the less games we play. Most of our wins are 2-0's and most of our losses are 1-2's.
+
+![Table]()
+
+This is further justified when we look at our Match win % when we go to a game 3 compared to when we do not.
+
+Match Win rate win in two games (%):  
+Match Win rate win in three games (%):  
+
+Looking further in again to a win % breakdown by game, we can see the trend even clearer:
+
+Game 1 wins (%):  
+Game 2 wins (%):  
+Game 3 wins (%):  
+
+So why is this?
+
+
+Discussion of why. 
+See SB plans? Have more useful hate.
+Discussion on mulligans.
+Play vs draw? (DIE ROLL WINS!)
+Archetype breakdowns. Metagame discussion.
+Trends over time.
+
+Discussion on speed.
+Discussion on win method.
+PTT vs non PTT
+
+Comparison vs TES and ANT.
 
 ## The comparisons
 
@@ -102,5 +150,9 @@ Also worth addressing that our win% is below that of ANT or TES in Cook's articl
 and it's still a properly positive winrate
 Also in the part where you compare which engines we use it might be worth breaking DD kills out into PTT and same-turn kills
 since I think same-turn kills are the most common by a significant margin and that will sort of address the speed-data-skew aspect
+
+
+Also, I'm not sure if you want to mention this anywhere, but another cool thing that DDFT has, is the ability to play high costed spells that ad nauseam decks cant. It's not really relevant now, but it may be in the future. I remember the insane builds with 4 Dig Through Time when it was legal. That was the most insane version I've ever played and I actually felt like DDFT was the best storm deck during that time
+
 
 ## Closing thoughts
