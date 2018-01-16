@@ -125,6 +125,37 @@ Game 3 wins (%):
 
 So why is this?
 
+It might be that many of our opponents have relevant sideboard choices against us?
+This could also represent them incorrectly sideboarding and realising their choice was wrong for 
+game 3. A great example of this would be bringing in Grafdigger's Cages or similar. It could also
+be related to the fact that the archetype has quite a few unknown cards which our opponent's might
+not know how to interact with but, as the match goes on, will get used to. It might also be our own 
+constraints in sideboard options. Being a combo deck, and a combo deck that uses a wishboard at that, 
+we do have limited slots and options for trying to face a large variety of hate in different forms
+and it may be often we just have the wrong answers at the wrong times.
+
+Backtracking a bit, the overall Match Win % is not static however. We have been trending it over time
+and, although we have only recently started gathering data, we can already see some trends for the better.
+Below shows the Match Win % over time:
+
+![Graph]()
+
+As a comparison I will also present the number of matches played over time to allow you to get a feel for
+how significant each month's result is in terms of consistency. As you can see with have limited early data
+but a lot more recent data. We can also see an upward trend in terms of Match Win %. If we look at Match Win %
+but only taken from the past three months we get:
+
+Match Win rate win past three months (%):  
+
+Definately looking better.
+
+So why is this improving? I personally thing it's to do with consistency. Previously between April (Top ban) and 
+around late October there was little agreement between pilots who talked things through about what to run. Many
+lists were tried to work out where the deck was going and whether it was still viable. As touched on in my last 
+article a lot of experienced people also put down the deck nad though it still attracted newer pilots, a lot
+of the experience was lost. 
+
+Going up, more people, more skill etc dicuss.
 
 Discussion of why. 
 See SB plans? Have more useful hate.
