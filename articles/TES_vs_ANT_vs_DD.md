@@ -12,7 +12,7 @@ statistics that had been gathered and gave a hint that another article
 was coming where I present them properly and in greater detail.  
 This is that article.
 
-Back in November some of us started trying to work out actually how the deck
+Back in November some of us started trying to actually work out how well the deck
 was performing. We had gone through a tricky year with the Sensei's Diving Top ban and as a
 result many people were changing many things in their lists with no real
 idea of how performance was going. To help work this out we started a public
@@ -68,16 +68,16 @@ pass-the-turn piles it's possibly a bit more prevalent here.
 Another major difference in the data collection compared to the TES data is that the TES data 
 only draws from a single individual and only records MTGO Leagues or Comp REL paper events. We
 decided to be a bit more open with our data collection compiling it from a large number of 
-individuals at various sill levels and experience levels with the deck. This also includes practice
+individuals at various skill levels and experience levels with the deck. This also includes practice
 games, testing, local Paper events, Xmage and Cockatrice games. Despite some of the stigma associated
-with some of these mediums they are all valid matches played in a competative fasion so should be counted.
+with some of these mediums they are all valid matches played in a competitive fasion so should be counted.
 It also allows us to generate the most amount of data points to try and avoid individual or medium biases
 so that the deck's performance is the focus irrespective of skill level or experience.
 
 The final main limitation is what decklists people are running. DDFT has a core series of pieces however
 unlike a lot of decks, there are a lot of 'flexible slots' available in terms of numbers of Burning Wishes,
 Lotus Petals, Lands, having BR duals vs all UR duals, whether you run Rain of Filth, Conjurer's Bauble,
-Preordain, how many discard spells you run and at what ratios of each. Because of this variance
+Preordain, how many discard spells you run and at what ratios of each and splash colours. Because of this variance
 it's hard to determine what list is performing best. We could try at give each ratio of things a unique
 code slot and string them together just as we could try and get people to list all cards in their piles
 however people don't want to have to keep that level of detail in their notes so in the interests of
@@ -132,9 +132,11 @@ be related to the fact that the archetype has quite a few unknown cards which ou
 not know how to interact with but, as the match goes on, will get used to. It might also be our own 
 constraints in sideboard options. Being a combo deck, and a combo deck that uses a wishboard at that, 
 we do have limited slots and options for trying to face a large variety of hate in different forms
-and it may be often we just have the wrong answers at the wrong times.
+and it may be often we just have the wrong answers at the wrong times. It could also be the fact
+that our main win condition allows our opponent to see the entierity of our deck that is not included
+in the Doomsday pile and thus know exactly what to play around.
 
-Backtracking a bit, the overall Match Win % is not static however. We have been trending it over time
+Backtracking a tad, the overall Match Win % is not static however. We have been trending it over time
 and, although we have only recently started gathering data, we can already see some trends for the better.
 Below shows the Match Win % over time:
 
