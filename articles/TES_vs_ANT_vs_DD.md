@@ -136,6 +136,12 @@ and it may be often we just have the wrong answers at the wrong times. It could 
 that our main win condition allows our opponent to see the entierity of our deck that is not included
 in the Doomsday pile and thus know exactly what to play around.
 
+So how does this compare to our other Storm counterparts?
+
+COMPARISON
+
+### Oh the time's they are a changing!
+
 Backtracking a tad, the overall Match Win % is not static however. We have been trending it over time
 and, although we have only recently started gathering data, we can already see some trends for the better.
 Below shows the Match Win % over time:
@@ -154,19 +160,99 @@ Definately looking better.
 So why is this improving? I personally thing it's to do with consistency. Previously between April (Top ban) and 
 around late October there was little agreement between pilots who talked things through about what to run. Many
 lists were tried to work out where the deck was going and whether it was still viable. As touched on in my last 
-article a lot of experienced people also put down the deck nad though it still attracted newer pilots, a lot
-of the experience was lost. 
+article a lot of experienced people also put down the deck and though it still attracted newer pilots, a lot
+of the experience was lost and a lot of the experienced pilots had to re-learn a lot of things and get used
+to playstyles without Sensei's Top. 
+
+Part of this also might be the widespread accepted use of Conjurer's Bauble as a card. The innocuous little 
+artifact has a lot of potential and some key niche uses for the deck. Some people had started to use it but
+it wasn't until g0ld_rook's 5-0 league online being reported that people started to adopt it a lot more. It
+might be unrelated to this addition but that is one of the few decklist additions we can track with relative certainty
+mainly through discussions between pilots.
+
+### Test your might
+
+
+
+### Mulling over things.
+
+In my previous article I already showed how the deck mulligans well but let's look into it a bit closer.
+Again I will present below the graph of percentage of times we keep starting hands and the weighting 
+of how often we win with said starting hand numbers.
+
+![Graph]()
+
+
+![Graph]()
+
+As you can see we keep seven card hands pretty consistently. Interestingly enough, the rate at which we mulligan
+seems to definitely follow a trend as games go on through a match. This could be because of awareness of opposing
+deck and what constitutes a "good" hand against a given opponent or it could be more aggressive mulliganing to try
+and find key sideboard elements. Looking at the win % based on starting hand we continue to see a drop in win percentage
+across all starting hand sizes. Given the higher penchant for needing to mulligan this might help explain the lower game
+3 win % or it might be a result of it rather than a contributing factor.
+
+Either way it looks like the deck mulligans pretty well. 
+
+Once again let's see how we fair against the other two:
+
+COMPARISON
+
+### Gotta go fast
+
+The next thing to look at that I touched upon previously is the speed that we go off. This is an interesting one
+as discussed because it's hard to get an accurate representation of speed without fudging numbers or recording exactly
+what turn you combo off in. For reasons already mentioned the speed of the deck was tracked as the turn that the 
+deck "went off" that is to say completed their combo (whatever combo that was). This includes casting Doomsday to 
+win that turn, casting it to initiate a pass-the-turn pile, delivering a lethal natural Tendrils kill or creating a
+number of goblins via EtW.
+
+The scale was tracked from turn 1 (T1) to turn 5+ (T5+) and is recorded as a percentage of across all games.
+
+![Graph]()
+
+Those are some nice curves no?  
+Already we can see some interesting observations. Game 1 seems to have the most consistent setup with the highest
+percentage of T2 and T3 combo turns. Game 2 seems to show the highest variance with the highest percentage of T1
+combos but also the highest number of T5+ combos. Let's look more closely at the averages of this graph.
+
+Totalling all combo turns across all games together and applying the TES T1-T4+ scale we can work out our overall 
+Average Combo Turn (ACT).
+
+ACT: [[NUMBER]]
+
+COMPARISON TABLE  
+
+Comparing this to the other data we can see we are slower than TES on average but marginally faster than ANT. One thing to
+note however is that we do record combo turns for games even when we do not win them. This represents us 'going off' and maybe being blown out by an unknown piece of hate or miscounting storm or messing up the pile. To fix this we can generate the ACT filtered
+only by when we win the game we go off. Averaging that gives us the following:
+
+ACT (Wins): [[NUMBER]]
+
+As you can see it is in fact slightly faster. I think this can be easily explained by the fact that as any
+game drags on, the non 'fast' combo player is more likely to draw into resistance or answers and apply
+more pressure at the same time. 
+
+Finally we shall check what happens for only winning lines that use Doomsday as the engine card. This is to help
+get an idea of how many results are being skewed by fast EtW engines being used. Again this is only for games that
+we win and only where Doomsday is part of the engine used:
+
+ACT (wins, Doomsday): [[NUMBER]]  
+
+Unsurprisingly it is slower than the overall wins ACT however it is still faster than the total ACT compiling all
+combo turns that include losses. I think all this shows that overall we are a fast enough deck to be considered 
+'fast combo' (relative to the other storm variants and not including things like Belcher or BR Reanimator).
 
 Going up, more people, more skill etc dicuss.
 
 Discussion of why. 
 See SB plans? Have more useful hate.
-Discussion on mulligans.
+Discussion on mulligans. (TICK)
 Play vs draw? (DIE ROLL WINS!)
 Archetype breakdowns. Metagame discussion.
-Trends over time.
+Trends over time. (TICK)
 
-Discussion on speed.
+Discussion on speed. (TICK)
 Discussion on win method.
 PTT vs non PTT
 
