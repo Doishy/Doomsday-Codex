@@ -170,9 +170,52 @@ it wasn't until g0ld_rook's 5-0 league online being reported that people started
 might be unrelated to this addition but that is one of the few decklist additions we can track with relative certainty
 mainly through discussions between pilots.
 
+
 ### Test your might
 
+Obviously one thing we can consider in how a deck is performing and it performs over a given period of time is 
+the opposition that the deck will face. Despite what some people might say, there is no deck that has good matchups
+against every other deck. That is the beauty of the game and of the format, there is something to prey on and be hunted
+by. If I were to go into a room and be told I was playing against Elves and Lands I would be very happy. If I was told
+it was Eldrazi and Force of Will/Hymn to Tourach/Ethersworn Canonist.dec then I would be less so.
 
+First of all let's take a moment to appreciate the variety of the format. Across the results we have a total of [[NUMBER]]
+different decks which is great. We did go through the results and tidy up certain decks where minor naming coventions
+might give the illusion of difference but they are the same for all intents and purposes (Dragon Stompy and Goblin Stompy).
+I'm sorry if by doing this I offend any archetypes however sometimes key subtle differences are just too subtle. The highest 
+represented deck across all our results only had a net share of [[PERCENTAGE]] of the meta we have faced so far which is nice.
+
+Now if we were to split our dicussion for each deck we would have a hard time and this would be a much longer article (though
+it is pretty long anyways so thankyou if you have made it this far). Often when talking about archetypes people will split
+them into 'Blue' and 'Not Blue'. Sometimes this binary system gets broadened by the addition of 'Chalice' however this then 
+asks the question of where does Popeye stompy circa 2017 fit in being both 'Blue' and a 'Chalice' deck?  
+Poor taste jokes aside we decided we wanted to try and define what we were facing by more than just whether they had a 
+colour associated with them but less than listing each and every archetype.
+
+We decided upon a system of defining archetypes by what elements we as a deck actually cared about in terms of interaction.
+We decided to use the following catergories to list archetypes by:
+
+- Chalice - Decks that utitlise permanent, usually artifact based hate such as Chalice of the Void or Thorn of Amethyst
+- Counterspells - Decks that utilise reactive countermagic such as Force of Will or Daze
+- Discard - Decks that utilise proactive hand disruption such as Thoughtseize or Hymn to Tourach
+- Hatebears - Decks that usitilise creature based disruption such as Thalia, Guardian of Thraben or Eidolon of the Great Revel
+- Speed - Decks that just try and kill you quickly
+
+Of course we then also added sub categories of the combinations of the two so Doomsday as a deck would come under the
+heading of 'DiscardSpeed'. We did not go for combinations of three because it did not seem pertinent. Only a few decks
+run a mixture of three of these items (Esper Stoneblade/Deathblade) and of those two are normally more prevalent than
+the last. Assigning these labels this way grouped interesting things together. 
+
+Despite one being a great matchup and the other being terrible. Both Eldrazi and Lands come under the heading 'Chalice'.
+Eldrazi because they run Chalice of the Void in the maindeck and Lands because their main method of hate is bringing
+in Sphere effects from the sideboard. Pretty much all storm variants come under 'DiscardSpeed' but so does BR Reanimator.
+There are definately limitations to this assigning method and I would be very open to a different way of doing it.
+
+Looking at the performance breakdown against our categories we get this results display:
+
+![Results by Hate Faced]()
+
+DISCUSSION OF RESULTS
 
 ### Mulling over things.
 
