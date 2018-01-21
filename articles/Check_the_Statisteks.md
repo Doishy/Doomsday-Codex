@@ -1,3 +1,5 @@
+All data compiled 21/01/2017
+
 Witty title for an article full of statistics:
 
 Decks not hot.  
@@ -6,7 +8,7 @@ Check the statistekks. (?)
 
 ## The Data Collection
 
-Back in January I posted an [article](URL) detailing a bit about DDFT as a deck 
+Back in January I posted an [article](https://ddft.wiki/posts-output/DD_2017/) detailing a bit about DDFT as a deck 
 across the course of 2017 and how it is fairing now. I presented some
 statistics that had been gathered and gave a hint that another article
 was coming where I present them properly and in greater detail.  
@@ -43,13 +45,15 @@ Doomsday itself is a weird deck, once you cast the card there are so many differ
 to draw into it, time it, win with it that you have a lot of different options.
 In total we have 35 different generic winning engines used spread across the use of Doomsday, 
 Burning Wish and the various win conditions that can be utilised. We also tracked whether
-a combo turn involved a [pass-the-turn pile](URL), a [double cantrip pile](URL), and various
-other techniques with cards like [Laboratory Maniac](URL) or [Conjurer's Bauble](URL).
+a combo turn involved a [pass-the-turn pile](http://ddft.wiki/pages-output/ch1/pass-the-turn/), 
+a [double cantrip pile](http://ddft.wiki/pages-output/ch1/basics/), and various
+other techniques with cards like [Laboratory Maniac](http://ddft.wiki/pages-output/ch1/laboratory-maniac/)
+or [Conjurer's Bauble](http://ddft.wiki/pages-output/ch2/cb-piles/).
 
 Going into this level of detail allowed us to identify trends in how often the deck uses
 what to win and how useful certain niche cards are to the deck.
 
-The full public data spreadsheet may be found [HERE](URL). Please feel free to 
+The full public data spreadsheet may be found [HERE](https://docs.google.com/spreadsheets/d/14hIVFCCxK6v6PHzj_7opfigFWVGV73kv59OdeN-J95I/edit?usp=sharing). Please feel free to 
 contribute any and all matches played, just make sure to include all information requested
 in the sheet.
 
@@ -59,7 +63,7 @@ in the sheet.
 
 There are some limitations with how our data is compiled and assessed. One major one is
 in regards to combo turn. Combo turn refers to the turn we "go off" but this may not be the same
-turn we win. Casting Doomsday on T1 to build a [Shelldock Isle/Emrakul Pile](URL) would still
+turn we win. Casting Doomsday on T1 to build a [Shelldock Isle/Emrakul Pile](http://ddft.wiki/pages-output/ch2/shelldock-emrakul/) would still
 be recorded as a T1 combo turn despite not winning until T3/4. The same with early EtW plays. 
 Making 14 Goblins on T2 might not win you the game until T4 or even later but it would still
 be recorded as T2. The TES data has this same issue in regards to EtW lines but with Doomsday and
@@ -97,7 +101,7 @@ we had (NUMBER) data points instead (Yes, that means NUMBER mirror matches playe
 
 ### #Winning
 
-First of all the one that everyone wants to know: The Match and Game win rates.
+First of all the ones that everyone wants to know: The Match and Game win rates.
 
 Match Win rate (%):  
 Game Win rate (%):  
@@ -136,9 +140,6 @@ and it may be often we just have the wrong answers at the wrong times. It could 
 that our main win condition allows our opponent to see the entierity of our deck that is not included
 in the Doomsday pile and thus know exactly what to play around.
 
-So how does this compare to our other Storm counterparts?
-
-COMPARISON
 
 ### Oh the time's they are a changing!
 
@@ -159,10 +160,10 @@ Definately looking better.
 
 So why is this improving? I personally thing it's to do with consistency. Previously between April (Top ban) and 
 around late October there was little agreement between pilots who talked things through about what to run. Many
-lists were tried to work out where the deck was going and whether it was still viable. As touched on in my last 
+lists were tried un order to work out where the deck was going and whether it was still viable. As touched on in my last 
 article a lot of experienced people also put down the deck and though it still attracted newer pilots, a lot
 of the experience was lost and a lot of the experienced pilots had to re-learn a lot of things and get used
-to playstyles without Sensei's Top. 
+to playing the deck without Sensei's Top. 
 
 Part of this also might be the widespread accepted use of Conjurer's Bauble as a card. The innocuous little 
 artifact has a lot of potential and some key niche uses for the deck. Some people had started to use it but
@@ -215,7 +216,17 @@ Looking at the performance breakdown against our categories we get this results 
 
 ![Results by Hate Faced]()
 
-DISCUSSION OF RESULTS
+We seem to have a pretty good set of matchups despite the differing hate types however one result
+is really key in showing how the deck's performance is in this current meta. 'CounterspellsDiscard'
+is representative of two of the biggest decks in the format right now. Grixis Delver and Czech Pile.
+We obviously need to try and up our game against these decks however facing a mix of proactive
+disruption to your hand and reactive countermagic for the combo whilst under pressure is tricky.
+These are also the two highest opposing deck results accounting for [[COMBINED PERCENTAGE]] between
+them.
+
+Just going by the numbers it looks like if we can improve these two matchups specifically then
+our overall performance rating should increase. The trick is how to achieve that improvement...
+
 
 ### Mulling over things.
 
@@ -237,9 +248,6 @@ across all starting hand sizes. Given the higher penchant for needing to mulliga
 
 Either way it looks like the deck mulligans pretty well. 
 
-Once again let's see how we fair against the other two:
-
-COMPARISON
 
 ### Gotta go fast
 
@@ -267,8 +275,8 @@ ACT: [[NUMBER]]
 COMPARISON TABLE  
 
 Comparing this to the other data we can see we are slower than TES on average but marginally faster than ANT. One thing to
-note however is that we do record combo turns for games even when we do not win them. This represents us 'going off' and maybe being blown out by an unknown piece of hate or miscounting storm or messing up the pile. To fix this we can generate the ACT filtered
-only by when we win the game we go off. Averaging that gives us the following:
+note however is that we do record combo turns for games even when we do not win them. This represents us 'going off' and maybe being blown out by an unknown piece of hate or miscounting storm or messing up the pile. To fix this we can generate the ACT filtered only by when we win the game we go off.  
+Averaging that gives us the following:
 
 ACT (Wins): [[NUMBER]]
 
@@ -286,35 +294,73 @@ Unsurprisingly it is slower than the overall wins ACT however it is still faster
 combo turns that include losses. I think all this shows that overall we are a fast enough deck to be considered 
 'fast combo' (relative to the other storm variants and not including things like Belcher or BR Reanimator).
 
-Going up, more people, more skill etc dicuss.
+One thing to consider about the Doomsday only wins number and the others before it is that pass-the-turn 
+Doomsday lines can also skew the data to seem faster than it is. Let's take this as an oppotunity to look
+at roughly what amount of our total Doomsday lines are pass-the-turn ones.
 
-Discussion of why. 
-See SB plans? Have more useful hate.
-Discussion on mulligans. (TICK)
-Play vs draw? (DIE ROLL WINS!)
-Archetype breakdowns. Metagame discussion.
-Trends over time. (TICK)
+![PTT Graph]()
 
-Discussion on speed. (TICK)
-Discussion on win method.
-PTT vs non PTT
+Game 1 only twenty percent of play lines are pass-the-turn. Games 2 and 3 this increases to 30% which is
+interesting. This could be an increase of usage of Shelldock Isle or of Jamming T1 Dark Ritual into 
+a T2 Laboratory Maniac kill. It could also represent the need to go off the the face of more constrained
+resources preventing a same-turn win. 
 
-Comparison vs TES and ANT.
+### R pill or the U pill?
 
-## The comparisons
+Following on from our glance at how often we pass-the-turn we can also see what method we use to win.
+We asked people to fill in their winning line from a pretty comprehensive list of different methods
+but for easy viewing we have broken it down into a set of four.
 
-## Extra data not listed
+- DD: Any line that wins via the casting of Doomsday
+- EtW: Any line that wins via the casting of Empty the Warrens (without casting Doomsday)
+- N-Storm: Any line that wins via just naturally storming our with Tendrils of Agony (without casting Doomsday)
+- Other: Any other win method such as sideboarded "Man Plans" or Burning Wish for Telemin Performance
 
-looking pretty good so far. There's so much content available from those stats and i wish we could put everything in. A couple suggestions just fro my first read through of your first draft:
-I think when you talk about how "combo turn" is defined and you talk about how it could create some skew towards lower numbers you should more directly address how this is also the case with TES, as a t1 combo might not win til t4 if it's ETW.
-Also, I think you should include a clearer section about caveats re: the data and how it compares to Cook's data. Among these the biggest ones are  1) that it was collected by many people (which you do address) but it means their playskill is unverifiable, 2) that the data is not all from MTGO Leagues and Comp-REL events, but from regular-REL paper events, MTGO Tournament Practice Room games, and even a handful of XMAGE and paper testing games. I'm honestly not sure how much that matters because I've run into some very bad opponents at Comp-REL, but worth noting. 3) that there is no control over what decklists people run, so there could be wild variation between lists and we might not know
-Also worth addressing that our win% is below that of ANT or TES in Cook's article (but it has been trending upward)
-and it's still a properly positive winrate
-Also in the part where you compare which engines we use it might be worth breaking DD kills out into PTT and same-turn kills
-since I think same-turn kills are the most common by a significant margin and that will sort of address the speed-data-skew aspect
+![Win Conditions Graph]()
+
+Doomsday lines are a clear majority in terms of winning engine accounting for three quarters on average of
+our total lines. Next is Empty the Warrens lines resulting in roughly eighteen percent of lines. Natural
+Tendrils comes in at a strong five percent or so and 'Other' a neat two percent. If nothing else, it's
+nice to see how significant the namesake card is as a win condition in a deck that has a lot of potential
+options for play.
+
+Delving into the Doomsday lines themselves we have another split between the main three win conditions.
+
+- ToA: Doomsday stacks resulting in a lethal Tendrils of Agony
+- LM: Doomsday stacks resulting in winning from a Laboratory Maniac
+- SI: Doomsday stacks winning by casting Emrakul, the Aeons Torn off of Shelldock Isle
+
+![Doomsday Win Conditions Graph]()
+
+Lethal storm is again a clear majority, especially in Game 1. Laboratory maniac is steady across
+all games accounting for around thirty percent. I know some people debate on whether the inclusion
+of maniac is worth it but from this data it seems to show that he represents almost a third of wins
+therefore should probably be included. What is interesting is that the reduction in storm wins
+from Games 2 and 3 seems to go directly to the added presence of Shelldock Isle wins.
 
 
-Also, I'm not sure if you want to mention this anywhere, but another cool thing that DDFT has, is the ability to play high costed spells that ad nauseam decks cant. It's not really relevant now, but it may be in the future. I remember the insane builds with 4 Dig Through Time when it was legal. That was the most insane version I've ever played and I actually felt like DDFT was the best storm deck during that time
+### Go Compaaaaaaarrreeeeeee
+
+So how does all the above data stack up to our storm cousins? Well actually you will have to wait
+(unless you look it up yourself). This is because this is already a large piece of text, despite
+the pretty graphs and I think the comparison,
+
+- A, deserves its own article and...
+- B, requires more results to get a better judgement of performance over time and equivalent data sets for comparison.
+
+So, sorry....I guess.
 
 
 ## Closing thoughts
+
+I didn't think I would get so into this whole stats thing but I did. I'm normally a 
+Han Solo, "don't tell me the odds" kind of guy so following numbers was a refreshing change.
+I'm happy that the above helps solidify our position as an "established deck" despite a lack
+of metagame penetration and / or number of top 8 performances (give us time!). It seems we are doing
+pretty well and now just need to start polishing up our gameplay and bringing out our 
+anti-'CounterspellsDiscard' tech (IMO it's two Empty the Warrens in our board). 
+
+Massive shout outs to all those who have contributed results to this project especialy d8dk32
+and Hulahula who are MTGO League Machines! All I ask is that everyone keeps up with the data recording.
+The more we continueing with this, the more results, the more accurate a snapshot we can keep on
+how the deck is performing. 
