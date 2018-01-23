@@ -300,7 +300,7 @@ at roughly what amount of our total Doomsday lines are pass-the-turn ones.
 
 ![PTT Graph]()
 
-Game 1 only twenty percent of play lines are pass-the-turn. Games 2 and 3 this increases to 30% which is
+Game 1 only 20% of play lines are pass-the-turn. Games 2 and 3 this increases to 30% which is
 interesting. This could be an increase of usage of Shelldock Isle or of Jamming T1 Dark Ritual into 
 a T2 Laboratory Maniac kill. It could also represent the need to go off the the face of more constrained
 resources preventing a same-turn win. 
