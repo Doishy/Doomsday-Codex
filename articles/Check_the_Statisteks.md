@@ -1,4 +1,4 @@
-All data compiled 21/01/2017
+All data compiled ___________
 
 Witty title for an article full of statistics:
 
@@ -140,6 +140,15 @@ and it may be often we just have the wrong answers at the wrong times. It could 
 that our main win condition allows our opponent to see the entierity of our deck that is not included
 in the Doomsday pile and thus know exactly what to play around.
 
+*Pre-release edit:   
+I had in fact pre-written a lot of this article before copying in the numbers as the trends were already seemingly
+well developed however something was interesting to note here. When I first started writing this up G3 was
+at a negative win% (around 45%) however when coming to review the article we realised that it was now at 50%.
+This is really interesting as it implies that, over the course of the past month or so, we as an archetype and
+as pilots have obviously started figuring things out. My personal hypothesis is that we, having finally worked out
+where the deck is going have now been able to focus outwards at the person across the table and not just
+inwards in trying to get the deck to work. This change over time is about to be discussed next anyways but
+I thought it was an interesting enough point to mention.*
 
 ### Oh the time's they are a changing!
 
@@ -362,5 +371,5 @@ anti-'CounterspellsDiscard' tech (IMO it's two Empty the Warrens in our board).
 
 Massive shout outs to all those who have contributed results to this project especialy d8dk32
 and Hulahula who are MTGO League Machines! All I ask is that everyone keeps up with the data recording.
-The more we continueing with this, the more results, the more accurate a snapshot we can keep on
-how the deck is performing. 
+The more we keep up with this, the more results, the more accurate a snapshot we can keep on
+how the deck is performing.  
