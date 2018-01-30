@@ -1,3 +1,27 @@
+Standardised Puzzle Format:
+
+### Opponent:
+```
+Life: X
+Hand: Y, Z, etc
+Board: P, Q (Tapped), R, etc
+```
+
+### You:
+```
+Life: G
+Hand: V, C, M, etc
+Board: K, L
+Land drop?: Y/N
+Storm: Value
+Wish Targets: Many, List, etc
+```
+
+### Other requirements:
+```
+Win this turn
+```
+
 Opponent has active chains of mephistopholes in play, Snapcaster Mage in Play, Swords to Plowshares in hand and W open.  20 life.
 You are on 4 life.
 You have Rit, Rit, DD, Brainstorm, GP, BW
@@ -57,3 +81,67 @@ BW LED LED CB GP
 You BW for AoI
 
 AoI for BW, LED, LED. Crack LED, LED, LED for RRR RRR UUU, BW for AoI leaving UUU R, into CB and GP. R for CB. Cb loop LM. Cas Lm for UUU. GP for the win. 
+
+
+FB Puzzle:
+
+Facing Opp with Venser, Swords. SCM in play. 26 life. 
+
+Sea
+Sea
+Volc
+Badlands
+Swamp
+Petal
+
+Rit
+CT
+DD
+RoF
+LED
+BW
+
+Tap all for BBRUUU.
+CT (1) naming Venser BRUUU.
+Rit (2) BBBRUUU.
+RoF (3) going all the way BBBBBBBRUUU
+LED (4) BBBBBBBRUUU
+DD (5) BBBBRUUU
+Stack LED - CB - LED - CB - BW
+BW (6) cracking LED for B. BBBBBBUUU
+Fetch IC.
+IC (7) BBBUUU
+LED (8) BBBUUU
+LED (9) BBBUUU
+CB (10) BBBUU
+CB (11) BBBU
+LED for R. BBBURRR
+Discarding BW
+LED for B. BBBBBBURRR
+Bauble into BW from yard.
+Loop Baubles four times BBBBRR (15)
+BW (16) BBBB
+ToA (17) 
+
+Tap all for BBRUUU.
+CT (1) naming Venser BRUUU.
+Rit (2) BBBRUUU.
+RoF (3) going all the way BBBBBBBRUUU
+LED (4) BBBBBBBRUUU
+DD (5) BBBBRUUU
+Stack LED - BW - GP - CB - CB
+BW (6) cracking LED for R. BBBRRRUUU
+Fetch AoI.
+AoI (7) BBBUUU
+LED (8) BBBUUU
+GP (9) BBBUUU
+LED for R.RRRBBBUUU
+CB (10) RRRBBBUU
+CB into CB.
+CB (11) RRRBBBU
+Bauble into Bauble (12) RRRBBB
+Bauble into BW
+BW (13) BBBB
+
+
+Find the LM line from FB too. 
