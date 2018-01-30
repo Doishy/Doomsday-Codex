@@ -39,3 +39,21 @@ Sea, Sea, Sea, Volc out. Hand is LM, DD, GP, Delta, LP. Already made land drop f
 [GP, LED, AoI, LED, LM] should work; post Doomsday (B) floating. Tap Island, play BS. draw GP, LED, AoI; 
 put back AoI, PN. Play LED, play GP, resp crack LED (RRR), draw  AoI, cast and exile PN, LED, LM; play LED
 and crack for (UUU), play LM for (UUB) and play PN for the Win
+
+
+Hulahula's puzzle. 
+
+DD, DR, RoF, LP, LED, LM, AoI in hand. 
+Badlands and Volc in play. 
+Opp has Leyline of Sanct, tapped out. 
+
+Two possibilities. 
+ [CB, LED, GP, GP, GP]
+Rituals for BBBB, land for R and petal for R. DD. Cast AoI for RRB.  Use LED to dump LM and cast CB then loop LM and chain draws into LM using second LED for U. Final GP floating under AoI for win
+
+or
+
+BW LED LED CB GP
+You BW for AoI
+
+AoI for BW, LED, LED. Crack LED, LED, LED for RRR RRR UUU, BW for AoI leaving UUU R, into CB and GP. R for CB. Cb loop LM. Cas Lm for UUU. GP for the win. 
