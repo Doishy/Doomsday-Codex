@@ -1,4 +1,4 @@
-All data compiled ___________
+All data compiled 3rd February 2018
 
 Witty title for an article full of statistics:
 
@@ -74,7 +74,7 @@ only draws from a single individual and only records MTGO Leagues or Comp REL pa
 decided to be a bit more open with our data collection compiling it from a large number of 
 individuals at various skill levels and experience levels with the deck. This also includes practice
 games, testing, local Paper events, Xmage and Cockatrice games. Despite some of the stigma associated
-with some of these mediums they are all valid matches played in a competitive fasion so should be counted.
+with some of these mediums they are all valid matches played in a competitive fashion so should be counted.
 It also allows us to generate the most amount of data points to try and avoid individual or medium biases
 so that the deck's performance is the focus irrespective of skill level or experience.
 
@@ -92,19 +92,19 @@ pragmatism this level of data is ommitted.
 
 Right then, let's start looking at some data shall we?
 
-First of all the number of total 'good' match data points is (NUMBER). A 'good' match is defined as one where
+First of all the number of total 'good' match data points is 565. A 'good' match is defined as one where
 we have all the pertinent information recorded. For any data crunching involving sucess or win% we shall
 also define a 'good' match as "not the mirror". The reason being here is that we might only have data from
 one side of the match therefore only recording the result from one side and not the other. As a result it's
 easier to just omit them than allow the minor skew from it to be used. So for any results based statistics
-we had (NUMBER) data points instead (Yes, that means NUMBER mirror matches played, funtimes!).
+we had 560 data points instead (Yes, that means 5 mirror matches played, funtimes!).
 
 ### #Winning
 
 First of all the ones that everyone wants to know: The Match and Game win rates.
 
-Match Win rate (%):  
-Game Win rate (%):  
+Match Win rate (%): 56.25%  
+Game Win rate (%): 54.71%  
 
 Well it's positive(>50%)! That's always a good start.  
 What does this actually mean though?  
@@ -114,18 +114,18 @@ at least at face value. As you can see we have some interesting points in regard
 is lower than our match win % and this will become more apparent as we go on. Long story short is that
 we are favoured to win the less games we play. Most of our wins are 2-0's and most of our losses are 1-2's.
 
-![Table]()
+![DDStatsTable1]()
 
 This is further justified when we look at our Match win % when we go to a game 3 compared to when we do not.
 
-Match Win rate win in two games (%):  
-Match Win rate win in three games (%):  
+Match Win rate win in two games (%): 61.62%  
+Match Win rate win in three games (%): 50.54%  
 
 Looking further in again to a win % breakdown by game, we can see the trend even clearer:
 
-Game 1 wins (%):  
-Game 2 wins (%):  
-Game 3 wins (%):  
+Game 1 wins (%): 61.15%  
+Game 2 wins (%): 51.64%  
+Game 3 wins (%): 50.74%  
 
 So why is this?
 
@@ -156,14 +156,16 @@ Backtracking a tad, the overall Match Win % is not static however. We have been 
 and, although we have only recently started gathering data, we can already see some trends for the better.
 Below shows the Match Win % over time:
 
-![Graph]()
+![DDStatsGraph1]()
 
-As a comparison I will also present the number of matches played over time to allow you to get a feel for
+![DDStatsGraph2]()
+
+As a comparison I have also presented the number of matches played over time to allow you to get a feel for
 how significant each month's result is in terms of consistency. As you can see with have limited early data
 but a lot more recent data. We can also see an upward trend in terms of Match Win %. If we look at Match Win %
-but only taken from the past three months we get:
+but only taken from the past two months we get:
 
-Match Win rate win past three months (%):  
+Match Win rate win past two months (%): 58.67%  
 
 Definately looking better.
 
@@ -189,11 +191,11 @@ against every other deck. That is the beauty of the game and of the format, ther
 by. If I were to go into a room and be told I was playing against Elves and Lands I would be very happy. If I was told
 it was Eldrazi and Force of Will/Hymn to Tourach/Ethersworn Canonist.dec then I would be less so.
 
-First of all let's take a moment to appreciate the variety of the format. Across the results we have a total of [[NUMBER]]
+First of all let's take a moment to appreciate the variety of the format. Across the results we have a total of 97
 different decks which is great. We did go through the results and tidy up certain decks where minor naming coventions
 might give the illusion of difference but they are the same for all intents and purposes (Dragon Stompy and Goblin Stompy).
 I'm sorry if by doing this I offend any archetypes however sometimes key subtle differences are just too subtle. The highest 
-represented deck across all our results only had a net share of [[PERCENTAGE]] of the meta we have faced so far which is nice.
+represented deck across all our results only had a net share of 9.04% of the meta we have faced so far which is nice.
 
 Now if we were to split our dicussion for each deck we would have a hard time and this would be a much longer article (though
 it is pretty long anyways so thankyou if you have made it this far). Often when talking about archetypes people will split
@@ -223,18 +225,18 @@ There are definately limitations to this assigning method and I would be very op
 
 Looking at the performance breakdown against our categories we get this results display:
 
-![Results by Hate Faced]()
+![DDStatsGraph3]()
 
 We seem to have a pretty good set of matchups despite the differing hate types however one result
 is really key in showing how the deck's performance is in this current meta. 'CounterspellsDiscard'
 is representative of two of the biggest decks in the format right now. Grixis Delver and Czech Pile.
 We obviously need to try and up our game against these decks however facing a mix of proactive
 disruption to your hand and reactive countermagic for the combo whilst under pressure is tricky.
-These are also the two highest opposing deck results accounting for [[COMBINED PERCENTAGE]] between
-them.
+These are also the category the two highest opposing decks fall into accounting for 16.82% of the meta between
+them. The 'ChaliceCounterspells' result can be largely discounted due to how few decks run the two together.
 
 Just going by the numbers it looks like if we can improve these two matchups specifically then
-our overall performance rating should increase. The trick is how to achieve that improvement...
+our overall performance rating should increase. The trick is figuring out how to achieve that improvement...
 
 
 ### Mulling over things.
@@ -243,10 +245,10 @@ In my previous article I already showed how the deck mulligans well but let's lo
 Again I will present below the graph of percentage of times we keep starting hands and the weighting 
 of how often we win with said starting hand numbers.
 
-![Graph]()
+![DDStatsGraph4]()
 
 
-![Graph]()
+![DDStatsGraph5]()
 
 As you can see we keep seven card hands pretty consistently. Interestingly enough, the rate at which we mulligan
 seems to definitely follow a trend as games go on through a match. This could be because of awareness of opposing
@@ -269,17 +271,17 @@ number of goblins via EtW.
 
 The scale was tracked from turn 1 (T1) to turn 5+ (T5+) and is recorded as a percentage of across all games.
 
-![Graph]()
+![DDStatsGraph6]()
 
 Those are some nice curves no?  
-Already we can see some interesting observations. Game 1 seems to have the most consistent setup with the highest
-percentage of T2 and T3 combo turns. Game 2 seems to show the highest variance with the highest percentage of T1
-combos but also the highest number of T5+ combos. Let's look more closely at the averages of this graph.
+Already we can see some interesting observations. Game 1 seems to have the most consistent setup with high
+percentages of T2 and T3 combo turns. Game 2 seems to show the highest variance with the highest percentage of T1
+combos but also a high number of T5+ combos. Let's look more closely at the averages of this graph.
 
 Totalling all combo turns across all games together and applying the TES T1-T4+ scale we can work out our overall 
 Average Combo Turn (ACT).
 
-ACT: [[NUMBER]]
+ACT: 2.94
 
 COMPARISON TABLE  
 
@@ -287,7 +289,7 @@ Comparing this to the other data we can see we are slower than TES on average bu
 note however is that we do record combo turns for games even when we do not win them. This represents us 'going off' and maybe being blown out by an unknown piece of hate or miscounting storm or messing up the pile. To fix this we can generate the ACT filtered only by when we win the game we go off.  
 Averaging that gives us the following:
 
-ACT (Wins): [[NUMBER]]
+ACT (Wins): 2.92
 
 As you can see it is in fact slightly faster. I think this can be easily explained by the fact that as any
 game drags on, the non 'fast' combo player is more likely to draw into resistance or answers and apply
@@ -297,7 +299,7 @@ Finally we shall check what happens for only winning lines that use Doomsday as 
 get an idea of how many results are being skewed by fast EtW engines being used. Again this is only for games that
 we win and only where Doomsday is part of the engine used:
 
-ACT (wins, Doomsday): [[NUMBER]]  
+ACT (wins, Doomsday): 2.96  
 
 Unsurprisingly it is slower than the overall wins ACT however it is still faster than the total ACT compiling all
 combo turns that include losses. I think all this shows that overall we are a fast enough deck to be considered 
@@ -307,7 +309,7 @@ One thing to consider about the Doomsday only wins number and the others before 
 Doomsday lines can also skew the data to seem faster than it is. Let's take this as an oppotunity to look
 at roughly what amount of our total Doomsday lines are pass-the-turn ones.
 
-![PTT Graph]()
+![DDStatsGraph7]()
 
 Game 1 only 20% of play lines are pass-the-turn. Games 2 and 3 this increases to 30% which is
 interesting. This could be an increase of usage of Shelldock Isle or of Jamming T1 Dark Ritual into 
@@ -325,7 +327,7 @@ but for easy viewing we have broken it down into a set of four.
 - N-Storm: Any line that wins via just naturally storming our with Tendrils of Agony (without casting Doomsday)
 - Other: Any other win method such as sideboarded "Man Plans" or Burning Wish for Telemin Performance
 
-![Win Conditions Graph]()
+![DDStatsGraph8]()
 
 Doomsday lines are a clear majority in terms of winning engine accounting for three quarters on average of
 our total lines. Next is Empty the Warrens lines resulting in roughly eighteen percent of lines. Natural
@@ -339,7 +341,7 @@ Delving into the Doomsday lines themselves we have another split between the mai
 - LM: Doomsday stacks resulting in winning from a Laboratory Maniac
 - SI: Doomsday stacks winning by casting Emrakul, the Aeons Torn off of Shelldock Isle
 
-![Doomsday Win Conditions Graph]()
+![DDStatsGraph9]()
 
 Lethal storm is again a clear majority, especially in Game 1. Laboratory maniac is steady across
 all games accounting for around thirty percent. I know some people debate on whether the inclusion
