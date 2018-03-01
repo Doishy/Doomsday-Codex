@@ -21,7 +21,7 @@ Wish Targets: Many, List, etc
 ```
 Win this turn
 ```
-
+1. 
 Opponent has active chains of mephistopholes in play, Snapcaster Mage in Play, Swords to Plowshares in hand and W open.  20 life.
 You are on 4 life.
 You have Rit, Rit, DD, Brainstorm, GP, BW
@@ -46,7 +46,7 @@ RRRBBB
 BW (10)
 ToA (11)
 
-
+2. 
 Tell me the T2 kill from a board of LP, USea, Island and a hand of DR, DR, BS, PN, BW.
 
 BS, AoI, LED, CB, GP
@@ -56,7 +56,7 @@ I have a real solution to your puzzle, but it requires maindeck ToA. Rit, Rit, B
 it's a good argument for your maindeck ToA, since I don't think there is a pile without it
 
 
-
+3. 
 Sea, Sea, Sea, Volc out. Hand is LM, DD, GP, Delta, LP. Already made land drop for the turn. On 10 life.
 
 
@@ -145,3 +145,23 @@ BW (13) BBBB
 
 
 Find the LM line from FB too. 
+
+
+You are on a normal build but you have both TW and AoI available to you. 
+Vs Painter.  
+You're on the play, lead with GP.  
+You see Tomb, Painter, LED,  REB, Seat of the Synod, BS.  
+You drop Island, CB and pass.  
+They start with Seat, Grindstone, LED.  
+You enter turn 2 main phase with the following hand:  
+
+DR, DD, GP, LED, USea, BW  
+
+Win this turn.  
+
+Pretty sure [AOI, LED, LED, CB, BW] works for a storm kill.  
+AoI, LM, LED, CB, GP for LM kill.  
+TW, LM, LED, GP, CB for LM kill. Either use TW instant effect or...
+IF GS @ Probe, Mill 4, draw CB. CB for U, CB into LM. Activate CB  
+If GS @ TW, Mill 2, Exile GP, CB. Loop LED with CB, crack for UUU, loop LM with CB. Cast. Use exiled probe to win.  
+If no GS, TW into LM, LED, GP and try to win as normal.  
