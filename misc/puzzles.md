@@ -165,3 +165,19 @@ TW, LM, LED, GP, CB for LM kill. Either use TW instant effect or...
 IF GS @ Probe, Mill 4, draw CB. CB for U, CB into LM. Activate CB  
 If GS @ TW, Mill 2, Exile GP, CB. Loop LED with CB, crack for UUU, loop LM with CB. Cast. Use exiled probe to win.  
 If no GS, TW into LM, LED, GP and try to win as normal.  
+
+
+
+More painter
+
+Hand: BW, GP, DR, LED, LED  
+Play: LP, USea, Volc, Swamp  
+Opp: 2 x Welders (Active), GS, 16 life, 3 Mana open (Seat, Tomb).  
+Win this turn.  
+Opp's choices: GS  pile at 2 points, GS self to hope to hit CotV to then weld GS into C=0 or no GS.  
+
+AoI, BW, ToA, CB, CB  
+
+Mavericks!  
+
+
