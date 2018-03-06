@@ -22,29 +22,30 @@ Wish Targets: Many, List, etc
 Win this turn
 ```
 1. 
-Opponent has active chains of mephistopholes in play, Snapcaster Mage in Play, Swords to Plowshares in hand and W open.  20 life.
-You are on 4 life.
-You have Rit, Rit, DD, Brainstorm, GP, BW
-AoI in SB
-IU in maindeck
-LM maindeck
+Opponent has active chains of mephistopholes in play, Snapcaster Mage in Play, Swords to Plowshares in hand and W open.  20 life.  
+You are on 4 life.  
+You have Rit, Rit, DD, Brainstorm, GP, BW  
+AoI in SB  
+IU in maindeck  
+LM maindeck  
+Usea, Usea, Volc in play  
 Win this turn.
 
 
-Rit (1) BBB
-Rit (2) BBBBB
-DD (3) BB
-LED - LED - LED - BW - ?
-Sea for U. Volc for R. BBUR
-U for GP (Discard BS). (4) BBR
-LED (5)
-BW (6) LED for R. BRRR
-AoI (7) B
-LED (8)
-LED (9)
-RRRBBB
-BW (10)
-ToA (11)
+Rit (1) BBB  
+Rit (2) BBBBB  
+DD (3) BB  
+LED - LED - LED - BW - ?  
+Sea for U. Volc for R. BBUR  
+U for GP (Discard BS). (4) BBR  
+LED (5)  
+BW (6) LED for R. BRRR  
+AoI (7) B  
+LED (8)  
+LED (9)  
+RRRBBB  
+BW (10)  
+ToA (11)  
 
 2. 
 Tell me the T2 kill from a board of LP, USea, Island and a hand of DR, DR, BS, PN, BW.
