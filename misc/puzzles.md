@@ -186,6 +186,53 @@ BW (13) BBBB
 
 Find the LM line from FB too. 
 
+Me but better!
+
+Tap all for BBRUUU.
+
+CT (1) naming Venser BRUUU.
+
+Rit (2) BBBRUUU.
+
+RoF (3) going all the way BBBBBBBRUUU
+
+LED (4) BBBBBBBRUUU
+
+DD (5) BBBBRUUU
+
+Stack LED - CB - BW - CB - CB
+
+BW (6) cracking LED for R. BBBRRRUUU
+
+Fetch AoI.
+
+AoI (7) BBBUUU
+
+LED (8) BBBUUU
+CRACK LED RRR BBBUUURRR
+
+CB (9) BBBUURRR
+
+Crack CB, draw CB
+
+CB (10) BBBURRR
+
+Crack CB, draw CB
+
+CB (11) BBBRRR
+
+CB Loop x3
+(14)
+
+CB into LED
+
+LED (15)
+
+BW (16)
+
+ToA (17)
+
+
 
 You are on a normal build but you have both TW and AoI available to you. 
 Vs Painter.  
