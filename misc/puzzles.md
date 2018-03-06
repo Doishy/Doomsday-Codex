@@ -24,9 +24,10 @@ Win this turn
 1. 
 Opponent has active chains of mephistopholes in play, Snapcaster Mage in Play, Swords to Plowshares in hand and W open.  20 life.  
 You are on 4 life.  
-You have Rit, Rit, DD, Brainstorm, GP, BW  
+You have Rit, Rit, DD, Brainstorm, GP, BW.  
 AoI in SB  
 IU in maindeck  
+AoI Maindeck  
 LM maindeck  
 Usea, Usea, Volc in play  
 Win this turn.
