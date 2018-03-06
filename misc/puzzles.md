@@ -87,21 +87,59 @@ AoI for BW, LED, LED. Crack LED, LED, LED for RRR RRR UUU, BW for AoI leaving UU
 
 FB Puzzle:
 
-Facing Opp with Venser, Swords. SCM in play. 26 life. 
+Opponent 
 
-Sea
-Sea
-Volc
-Badlands
-Swamp
-Petal
+27 life  
 
-Rit
-CT
-DD
-RoF
-LED
-BW
+5 Land  
+Batterskull +Token  
+Vclique  
+Snap  
+Stoneforge Mystic  
+
+In Hand: 
+Swords to Plowshares  
+Vensor  
+
+You:  
+
+4 Life  
+  
+Sea  
+Sea  
+Volc  
+Badlands  
+Swamp  
+Petal  
+
+Hand:  
+Drit  
+Cabal Therapy  
+DD  
+BW  
+RoF  
+LED   
+
+MD
+Three Wishes
+Labman 
+Edge Of Autumn  
+
+SB  
+Act on Impuse  
+
+From Goldrook:  
+
+ Therapy name venser
+Ritual up, DD
+```
+[dd, Led, TW, BW, Led]
+```
+Led, BW, Aoi, Led, DD
+```
+[led, Aoi, Led ,Led, BW]
+```
+Me:
 
 Tap all for BBRUUU.
 CT (1) naming Venser BRUUU.
