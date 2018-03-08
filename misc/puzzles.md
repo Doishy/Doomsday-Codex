@@ -267,4 +267,15 @@ AoI, BW, ToA, CB, CB
 
 Mavericks!  
 
+Simple CB one.
 
+Hand:
+LM, AoI, GP, TS, DR, DD
+Play:
+Island, Swamp
+
+Opp on 20. 
+Assume no interaction.
+Win this turn. 
+
+(BS, LED, LP, CB, GP)
