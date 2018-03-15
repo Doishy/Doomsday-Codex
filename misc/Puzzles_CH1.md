@@ -86,3 +86,21 @@ We're not trying to trick you.
 - Your life: 20
 - Opponent has no relevant interaction
 - Win this turn
+
+### CH1.D
+
+- In play:  Badlands, Island
+- In hand:  Brainstorm, Brainstorm, Burning Wish, Dark Ritual, Doomsday, Lotus Petal, Lotus Petal
+- Opponent's Life: 20
+- Your life: 17
+- Opponent has no relevant interaction, storm count is 1.
+- Win this turn
+
+### CH1.E
+
+- In play:  Badlands, Island, Swamp
+- In hand:  Brainstorm, Brainstorm, Burning Wish, Dark Ritual, Doomsday, Lotus Petal, Lotus Petal
+- Opponent's Life: 20
+- Your life: 17
+- Opponent has Meddling Mage Naming "Act on Impulse".
+- Win this turn
