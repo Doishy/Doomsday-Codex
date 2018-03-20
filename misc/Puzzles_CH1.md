@@ -104,3 +104,13 @@ We're not trying to trick you.
 - Your life: 17
 - Opponent has Meddling Mage Naming "Act on Impulse".
 - Win this turn
+
+### CH1.F
+
+- In play:  Underground Sea, Underground Sea, Volcanic Island
+- In hand:  Brainstorm, Burning Wish, Dark Ritual, Dark Ritual, Doomsday, Gitaxian Probe
+- Opponent's Life: 20
+- Your life: 4
+- Opponent has Dark Confidant and Chains of Mephistopheles in play, Swords to Plowshares in hand and W open  
+- Win this turn
+
