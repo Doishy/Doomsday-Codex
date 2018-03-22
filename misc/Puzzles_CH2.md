@@ -123,7 +123,7 @@ Unless explicitly stated you do have a land drop available to you.
 - In hand:  Act on Impulse, Dark Ritual, Doomsday, Laboratory Maniac, Lion's Eye Diamond, Lotus Petal, Rain of Filth
 - Opponent's Life: 20
 - Your life: 17
-- Opponent has a Leyline of Sactity, no other interaction
+- Opponent has a Leyline of Sanctity, no other interaction
 - Win this turn
 
 ### CH2.E
