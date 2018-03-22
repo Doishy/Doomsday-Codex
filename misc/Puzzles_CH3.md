@@ -69,7 +69,7 @@ Unless explicitly stated you do have a land drop available to you.
 - In hand:  Act on Impulse, Dark Ritual, Doomsday, Laboratory Maniac, Lion's Eye Diamond, Lotus Petal, Rain of Filth
 - Opponent's Life: 20
 - Your life: 18
-- Opponent has A Leyline of Sanctity in play, no other relevant interaction.. You have no land drop available.
+- Opponent has A Leyline of Sanctity in play, no other relevant interaction. You have no land drop available.
 - Win this turn
 
 ### CH3.B  
@@ -111,6 +111,26 @@ in play, no other relevant interaction. You have no land drop available.
 - Your life: 18
 - Opponent has an Ancient Tomb and Island untapped, a Grindstone and two Goblin Welders without summoning sickness,
 no other relevant interaction.
+- Win this turn
+
+### CH3.E  
+
+- In play:  Island, Polluted Delta
+- In hand:  Burning Wish, Dark Ritual, Gitaxian Probe, Lion's Eye Diamond, Lotus Petal, Lotus Petal
+- Opponent's Life: 32
+- Your life: 6
+- Opponent has a Ground Seal and Lotus Petal in play, a Chain of Vapor in hand, no other relevant interaction.
+You have no land drop for turn.
+- Win this turn
+
+### CH3.E Tier 2
+
+- In play:  Island, Polluted Delta
+- In hand:  Burning Wish, Dark Ritual, Gitaxian Probe, Lion's Eye Diamond, Lotus Petal, Lotus Petal
+- Opponent's Life: 32
+- Your life: 6
+- Opponent has a Ground Seal and Lotus Petal in play, a Chain of Vapor in hand, no other relevant interaction.
+You have no land drop for turn. Laboratory Maniac is exiled.
 - Win this turn
 
 ### Prelate on 2 puzzle....chain of vapor for storm?
