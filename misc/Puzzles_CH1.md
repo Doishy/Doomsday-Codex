@@ -58,6 +58,8 @@ Unless otherwise explicitly stated, each puzzle will have at least one
 clear solution or answer so if you cannot find the line, don't give up!
 We're not trying to trick you.
 
+Unless explicitly stated you do have a land drop available to you.
+
 -------------
 
 ### CH1.A
