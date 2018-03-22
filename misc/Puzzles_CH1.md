@@ -104,7 +104,7 @@ Unless explicitly stated you do have a land drop available to you.
 - In hand:  Brainstorm, Brainstorm, Burning Wish, Dark Ritual, Doomsday, Lotus Petal, Lotus Petal
 - Opponent's Life: 20
 - Your life: 17
-- Opponent has Meddling Mage Naming "Act on Impulse".
+- Opponent has no relevant interaction.
 - Win this turn
 
 ### CH1.F
