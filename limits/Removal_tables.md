@@ -57,7 +57,7 @@ This is a list of some less commonly used spells that can be
 *Many of these are not good choices to play but have been included for the sake of completeness*  
 
 |        |Eye of Nowhere|Scrap Mastery|Shatterstorm|Subterranean Tremors|Vandalblast|
-|--------|:------:|:------:|:------:|:------:|:------:|:------:|
+|--------|:------:|:------:|:------:|:------:|:------:|
 |**Chalice @0**|UU|3RR|2RR|4R|R|
 |**Chalice @1**|UU|3RR|2RR|4R|X|
 |**Chalice @2**|X|3RR|2RR|4R|R|
@@ -136,7 +136,7 @@ games.
 *Many of these are not good choices to play but have been included for the sake of completeness*  
 
 |        |Ancient Grudge|Crash|Disenchant|Engineered Explosives|Rebuild|Rushing River|
-|--------|:------:|:------:|:------:|:------:|:------:|
+|--------|:------:|:------:|:------:|:------:|:------:|:------:|
 |**Chalice @0**|1R|0|1W|C+2|2U|2U|
 |**Chalice @1**|1R|0|1W|0+2|2U|2U|
 |**Chalice @2**|X|0|X|0+2|2U|2U|
