@@ -29,7 +29,7 @@ Maverick
 No Chalice decks (yay) and only one Ctrl+C, Ctrl+V out. As you can see Doomsday made
 up a significant portion of the metagame (10.5%!) with myself and ApeofJustice representing.
 
-**Our lists:**
+**Our lists:
 
 | ApeofJustice | Doishy |
 | :----: | :----: |
@@ -43,7 +43,7 @@ Let's get into it. Reports written by their respective pilots:
 **Player: ApeofJustice  
 Opponent: Ben (the eventual tournament winner)  
 Opposing Deck: ANT  
-Result: 1-2  **
+Result: 1-2 
 
 Playing against Ben (the eventual tournament winner), who I knew was playing
 ANT even before going into the match. On the draw.  
