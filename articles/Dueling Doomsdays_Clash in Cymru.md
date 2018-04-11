@@ -9,9 +9,9 @@ notice and terrible weather (like wow it was bad). Five rounds of Swiss with
 cut to Top 8. Thanks to the lovely judges we have the full metagame breakdown:
 
 ```
-Standstill - My friend borrowing my Deck
+Standstill
 Lands x2
-Doomsday x2 - Doishy and ApeofJustice
+Doomsday x2
 Infect
 ANT
 Aluren
@@ -29,7 +29,7 @@ Maverick
 No Chalice decks (yay) and only one Ctrl+C, Ctrl+V out. As you can see Doomsday made
 up a significant portion of the metagame (10.5%!) with myself and ApeofJustice representing.
 
-Our lists:
+**Our lists:**
 
 | ApeofJustice | Doishy |
 | :----: | :----: |
@@ -40,10 +40,10 @@ Let's get into it. Reports written by their respective pilots:
 
 ### Round 1
 
-Player: ApeofJustice  
+**Player: ApeofJustice  
 Opponent: Ben (the eventual tournament winner)  
 Opposing Deck: ANT  
-Result: 1-2  
+Result: 1-2  **
 
 Playing against Ben (the eventual tournament winner), who I knew was playing
 ANT even before going into the match. On the draw.  
@@ -60,7 +60,7 @@ this game going long, so I set up a pass the turn pile with Laboratory Maniac, g
 10. If he draws a tutor, or the Tendrils I die, but that is only a 5 outer, so Im quite happy
 playing against those odds. Ben hits a Ponder, shuffles, and hits the Tutor. GG
 
-Player: Doishy  
+**Player: Doishy  
 Opponent: Sammie  
 Opposing Deck: Miracles  
 Result: 0-2  
@@ -84,7 +84,7 @@ feel pretty angry.
 
 ### Round 2
 
-Player: ApeofJustice  
+**Player: ApeofJustice  
 Opponent: Morgan  
 Opposing Deck: Sneak and Show  
 Result: 2-0  
@@ -107,7 +107,7 @@ BW I put back ontop (With him on 19 and my storm currently 6), to go for an Empt
 16 goblins, and then flash back the 2 therapies from T1. He draws nothing relevant and concedes.  
 
 
-Player: Doishy  
+**Player: Doishy  
 Opponent: Justin  
 Opposing Deck: BUG Delver  
 Result: 2-1  
@@ -125,7 +125,7 @@ This round I also enjoyed watching the lands mirror occurring to my left XD
 
 ### Round 3
 
-Player: ApeofJustice  
+**Player: ApeofJustice  
 Opponent: Josh  
 Opposing Deck: Turbo Depths  
 Result: 0-2    
@@ -146,7 +146,7 @@ Turns out his scry was a Thoughtseize as well, and he takes my doomsday, and I p
 my only cantrip (ponder) find 3 lands, shuffle draw a land, then continue flooding out. He Marit 
 lages on T3 with a petal he drew.
 
-Player: Doishy  
+**Player: Doishy  
 Opponent: Mark  
 Opposing Deck: Copy Paste  
 Result: 0-2  
@@ -167,7 +167,7 @@ that I could ignore and 2 unknowns and hey, the unknowns were of course FoW and 
 
 ### Round 4
 
-Player: ApeofJustice  
+**Player: ApeofJustice  
 Opponent: Mark  
 Opposing Deck: Infect
 Result: 2-1  
@@ -180,11 +180,11 @@ in my disruption and cantrip heavy hand.
 G2) Mark mulligans to 6 and scrys to the top, I keep a T2 kill if I draw a cantrip or LED. I have a thoughtseize
 but decide to play a land and hold the thoughtseize, since I have the mana to cast it and combo next turn if 
 I can draw the cantrip. Mark plays a T1 Pithing Needle on LED and I inform him that it is infact a mana ability
-– feels bad man. [Editor's note: Mark knows better than this and I did slap him after because he's a pillock)
+– feels bad man. (Editor's note: Mark knows better than this and I did slap him after because he's a pillock)
 I get the cantrip, thoughtseize him, and see his only interaction was a flusterstorm, which
 I take, then proceed to standard pile ToA kill him. 
 
-Player: Doishy  
+**Player: Doishy  
 Opponent: Rosie  
 Opposing Deck: Lands  
 Result: 2-0  
@@ -208,17 +208,17 @@ win so Chain and Kill her.
 
 ### Round 5
 
-Player: ApeofJustice/Doishy
+**Player: ApeofJustice/Doishy
 Opponent: Doishy/ApeofJustic   
 Opposing Deck: THE MIRROR!  
 Result: Madness      
 
-ApeofJstice:  
+**ApeofJustice:  
 
 I played against Doishy.  
 It was a wonderfully fun game and I couldn’t do this game justice with regards to the report. 
 
-Doishy:  
+**Doishy:  
 
 Round 5 is something truly special. Round 5 vs ApeofJustice on Doomsday.  
 The 100% mirror.  
@@ -244,7 +244,7 @@ on six points and who even knows how that shit works anyways?.
 
 ## Ending Thoughts
 
-ApeofJustice:
+**ApeofJustice:
 
 I went 2-3 in actual matches. I feel that my opponents had a couple of particularly fortunate draws,
 but I was somewhat pleased with my overall play. I certainly still have some space for improvement,
@@ -252,7 +252,7 @@ especially seeing the play from Doishy with his CB piles (something I very rarel
 Either way, I had a tremendously fun event in Cardiff, and am glad to meet some of the people
 of this community.
 
-Doishy:
+**Doishy:
 
 3-2 overall but a fun day nonethless.
 Nice gloating point to note: My Standstill deck piloted by my friend Alex came second. His Semi 
