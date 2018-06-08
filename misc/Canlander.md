@@ -12,6 +12,15 @@ Cantrip in hand, 2 Islands.
 
 Cantrip in hand, 2 Islands.
 -> Gush, LED, GP, YW, ToA         BBB+1 (6)              9 Storm
+
+Cantrip in hand.
+-> TW, YW, DR, LED, ToA           BBB+1UUU (7)           10 Storm
+
+Cantrip in hand.
+-> IU, YW, DR, LP, ToA            BBB+1UUU (7)           10 Storm
+
+Cantrip in hand.
+-> IU, LED, DR, YW, ToA           BBB+UUB (6)            10 Storm
 ```
 
 ### Gush Piles
@@ -41,4 +50,18 @@ BS in hand, 1 Card in hand.
 ```
 Cantrip in hand, SDT in play.
 -> IU, LED, DR, YW, ToA            BBB+UUB (6)            10 Storm
+```
+
+### Three Wishes Piles
+
+```
+Three Wishes in hand, 2 Islands in play.
+-> Gush, YW, ToA, LED, LP          BBB+1UU (6)            9 Storm
+```
+
+### Ideas Unbound Piles
+
+```
+IU in hand, 4 Islands in play or 3 Islands and land drop.
+-> Gush, LED, NR, YW, ToA          BBB+UU (5)             10 Storm
 ```
