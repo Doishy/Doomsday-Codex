@@ -1,3 +1,10 @@
+## With LM. no Lotus, no Ancestral
+
+```
+SDT in play. 
+-> Gush, NW, LED, GP, LM           BBB+1BB (6)  
+```
+
 ## Many Examples for no Lotus, no Ancestral, no LM
 
 ### 1 Cantrip/Stored Draw (SD) Piles
